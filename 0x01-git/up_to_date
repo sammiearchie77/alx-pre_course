@@ -1,0 +1,28 @@
+List of Git commands use in this project
+
+1. git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_course.git
+
+2. echo 'My first readme' > README.md - passed a mesae 'My first readme ot the READEME.md file
+
+3.  git config --global user.email "you@example.com" - set global user email
+
+4. git config --global user.name "Your Name - set global username
+
+5. git add . - add all file in to the repo
+
+6. git commit -m 'My first commit' - add a commit message
+
+7. git push - push all changed to the repository
+
+8. mkdir 0x01-git - to create a folder named 0x01-git
+
+9. mkdir bash c js - create bash, c, and js folder at my root directory
+
+10. touch c/c_is_fun.c js/main.js js/index.js - to create c_is_fun.c file in c directory, created main and index.js file in js directory
+
+11. vi alx and echo -to write a bash #!/bin/bash mesage and echo "ALX" to alx file
+
+12. vi school and echo - to write a bash #!/bin/bash meaning it's a bash file and echo to pass a message 'School' to school file
+
+13. git checkout -b update_script - created a new branch called update_script
+
