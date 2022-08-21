@@ -26,3 +26,4 @@ List of Git commands use in this project
 
 13. git checkout -b update_script - created a new branch called update_script
 
+14. git pull - to pull updated files from the master
